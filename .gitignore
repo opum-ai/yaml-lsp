@@ -1,0 +1,3 @@
+# Eval run outputs (per-run results, HTML reports) are not committed. The score
+# a future release compares against is recorded in evals/BASELINE.md.
+evals/results/
